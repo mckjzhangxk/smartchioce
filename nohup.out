@@ -1,0 +1,4 @@
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=350m; support was removed in 8.0
+Gtk-Message: 18:17:33.964: Failed to load module "canberra-gtk-module"
+[   3979]   WARN - api.vfs.impl.local.FileWatcher - The current <b>inotify</b>(7) watch limit is too low. <a href="http://confluence.jetbrains.net/display/IDEADEV/Inotify+Watches+Limit">More details.</a> 
+[ 806032]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated with exit code 0 
